@@ -1,0 +1,9 @@
+== DESCRIPTION:
+
+Before you can use this class you need to set your API key.
+
+Look for:
+
+define('TVDB_API_KEY', '<YOUR-API-KEY>');
+
+in the TVDb class file and change <YOUR-API-KEY> with your TVDb API key.
